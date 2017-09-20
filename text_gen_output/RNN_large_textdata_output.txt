@@ -1,0 +1,30 @@
+-------------------
+input chars = 
+s eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin "
+predicted chars = 
+eceebete o  icate n h  hl rmgrspiiet hrmto,igt ntun o i a alvnogrbrdn  hs ode eeto n hretl o la o te"
+-------------------
+input chars = 
+eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to"
+predicted chars = 
+s apratc o eprnie;igt ntede o n htrcie esnres fo oes ntutee n h  o a aloycilr fo o aknsto hsmron o a"
+-------------------
+input chars = 
+e eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to love f"
+predicted chars = 
+rmtie o  u otefytin,t t nae o ltai,dn nvru es. hsetrtcd. tepd o oesrtin  ntutdn t nae t ntedee hs hr"
+-------------------
+input chars = 
+ates the whole of her sex. it was not that he felt any emotion akin to love for irene adler. all emo"
+predicted chars = 
+h,be h rmrmns,ig adee,ait hredl tmloe hs ahyn hreton hsetdn h  o o adarut n h  hnwratd srciety ee o "
+-------------------
+input chars = 
+n to love for irene adler. all emotions, and that one particularly, were abhorrent to his cold, prec"
+predicted chars = 
+dds nvrute fo o aee rtmrcin hwttil egin uos o  ocstaie yug n ha adee,sad,n hnihrcie eetrvnie ntede n"
+-------------------
+input chars = 
+ler, of dubious and questionable memory. i had seen little of holmes lately. my marriage had drifted"
+predicted chars = 
+a,wnth o ln al hsredigt hsrwyad ocuton hs ae  utlkns o  ocspai,a feel o  o olete o lcat frmtie,aae n"
